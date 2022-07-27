@@ -25,8 +25,8 @@ image-combiner
 │   │   │   file2.png
 │   │
 │   └───miscellaneous
-│   │   │   file1.png
-│   │   │   file2.png
+│       │   file1.png
+│       │   file2.png
 │   
 │   
 └───out
